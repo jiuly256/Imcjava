@@ -3,7 +3,7 @@
 _Ejemplo sencillo de calculo de Imc con JAVA para SENA_
 
 
-### Instalación 🔧
+### Instalacion
 
 
 _hace lo siguiente para compilar_
@@ -21,23 +21,23 @@ _Para visualizar_
 ```
 
 
-## Construido con 🛠�?
+## Construido con
 
 _Java_
 
 
-## Autores ✒️
+## Autores
 
 _Espero que pronto seamos mas_
 
 * **Jiuly Alexandra Rojas** - *Trabajo Inicial* - [jiuly256](https://github.com/jiuly256)
 
 
-## Licencia 📄
+## Licencia
 
-Este proyecto está bajo la Licencia (Licencia Mit) - mira el archivo [LICENSE](https://github.com/jiuly256/imcjava/blob/master/LICENSE.md)(LICENSE.md) para detalles
+Este proyecto esta bajo la Licencia (Licencia MIT) - mira el archivo [LICENSE](https://github.com/jiuly256/imcjava/blob/master/LICENSE.md)(LICENSE.md) para detalles
 
-## Gracias 🎁
+## Gracias 
 
 * si quieres unirte de verdad seria genial
 * Contribuye a que crezca
